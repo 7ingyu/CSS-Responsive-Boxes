@@ -1,4 +1,4 @@
-# Responsive Mockups
+# Responsive Mockup
 
 Take these designs and make them into a simple website!
 
